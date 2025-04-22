@@ -72,8 +72,6 @@ We welcome contributions!
 - Add prompts or improvements
 - Submit a pull request
 
-Please see `CONTRIBUTING.md` for style guides and testing tips.
-
 ---
 
 ## 📄 License
