@@ -37,24 +37,6 @@ Whether you're a developer, writer, researcher, or prompt engineer, this repo of
    git clone https://github.com/yourusername/prompt-engineering-library.git
    cd prompt-engineering-library
    ```
-
-2. **Browse prompts** under `/solo_agents`, `/multi_agents`, or `/patterns`.
-
-3. **Run optimizer (optional)**:
-
-   ```bash
-   python tools/prompt_optimizer.py --input examples/marketing_email.md
-   ```
-
----
-
-## 📦 Prompt Categories
-
-- `solo_agents/`: Standalone LLM tasks (e.g., summarizer, translator, QA bot)
-- `multi_agents/`: Agent collaboration flows
-- `patterns/`: Prompt structures (e.g., chain-of-thought, roleplay, system loops)
-- `examples/`: Real-world prompt applications
-
 ---
 
 ## 🧪 Model Compatibility
